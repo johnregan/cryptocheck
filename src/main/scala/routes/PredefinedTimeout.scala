@@ -1,3 +1,5 @@
+package routes
+
 import akka.util.Timeout
 
 import scala.concurrent.duration._

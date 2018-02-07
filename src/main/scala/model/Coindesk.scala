@@ -1,8 +1,9 @@
 package model
 
-import io.circe.Decoder.Result
-import io.circe.{ DecodingFailure, Error, Json, ParsingFailure }
+import io.circe.generic.auto._
 import io.circe.parser.parse
+
+case object RequestPrice
 
 case class Time(updated: String, updatedISO: String, updateUk: String)
 
@@ -10,27 +11,18 @@ case class CurrencyData(code: String, symbol: String, rate: String, description:
 
 object CurrencyData {
 
-  import io.circe.generic.auto._
-
-  //  for {
-  //    parsed <- parse(rawJson)
-  //    usd    <- parsed.findAllByKey("USD")
-  //    cd     <- usd.as[CurrencyData]
-  //  } yield {
-  //    cd
-  //  }
-  def apply(rawJson: String): Either[Error, CurrencyData] =
+  def apply(rawJson: String): Either[ParsingError, CurrencyData] =
     parse(rawJson) match {
-      case Left(error) => Left(error.asInstanceOf[Error])
+      case Left(error) => Left(ParsingError(error.message, error.underlying))
       case Right(json) =>
         json.findAllByKey("USD") match {
           case head :: Nil =>
             head.as[CurrencyData] match {
-              case Left(error) => Left(error.asInstanceOf[Error])
+              case Left(error) => Left(ParsingError(error.message, error.history))
               case Right(cd)   => Right(cd)
             }
-          case Nil => Left(ParsingFailure("no element found", null).asInstanceOf[Error])
-          case _   => Left(ParsingFailure("more than one element found", null).asInstanceOf[Error])
+          case Nil => Left(ParsingError("no element found"))
+          case _   => Left(ParsingError("more than one element found"))
         }
     }
 }

@@ -5,6 +5,7 @@ import de.heikoseeberger.akkahttpcirce.{ ErrorAccumulatingCirceSupport, FailFast
 import io.circe.generic.auto._
 import model.BitcoinPrice
 import org.scalatest.{ Matchers, WordSpec }
+import routes.PriceRoutes
 
 class PriceRouteSpec
     extends WordSpec

@@ -1,6 +1,7 @@
 import akka.actor.{ ActorRef, ActorSystem }
 import akka.http.scaladsl.Http
 import akka.stream.ActorMaterializer
+import routes.BaseService
 
 import scala.concurrent.ExecutionContextExecutor
 

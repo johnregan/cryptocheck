@@ -1,18 +1,11 @@
 import akka.actor.{ Actor, ActorLogging, ActorRef, Props }
 import akka.http.scaladsl.Http
 import akka.http.scaladsl.model._
-import akka.http.scaladsl.unmarshalling.Unmarshaller
 import akka.stream.{ ActorMaterializer, ActorMaterializerSettings }
 import akka.util.ByteString
-import model.{ BitcoinPrice, CurrencyData }
-import io.circe._
-import io.circe.generic.auto._
-import io.circe.parser._
-import io.circe.syntax._
+import model.{ CurrencyData, RequestPrice }
 
-import scala.concurrent.Future
-
-case object RequestPrice
+case class CoindeskResponse(actorId: ActorRef, httpResponse: HttpResponse)
 
 class CoindeskClientActor extends Actor with ActorLogging {
 
@@ -45,8 +38,6 @@ class CoindeskClientActor extends Actor with ActorLogging {
         .pipeTo(self)
   }
 }
-
-case class CoindeskResponse(actorId: ActorRef, httpResponse: HttpResponse)
 
 object CoindeskClientActor {
   def props: Props = Props[CoindeskClientActor]
