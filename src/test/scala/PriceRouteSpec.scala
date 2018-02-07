@@ -1,11 +1,12 @@
-import CryptoService.system
-import akka.actor.ActorRef
-import akka.http.scaladsl.testkit.ScalatestRouteTest
-import de.heikoseeberger.akkahttpcirce.{ ErrorAccumulatingCirceSupport, FailFastCirceSupport }
+import akka.actor.{ ActorRef, ActorSystem }
+import akka.http.scaladsl.testkit.{ RouteTestTimeout, ScalatestRouteTest }
+import de.heikoseeberger.akkahttpcirce.ErrorAccumulatingCirceSupport
 import io.circe.generic.auto._
-import model.BitcoinPrice
+import model.{ CoinInfo, CurrencyData, SupportedCoins }
 import org.scalatest.{ Matchers, WordSpec }
 import routes.PriceRoutes
+
+import scala.concurrent.duration.DurationInt
 
 class PriceRouteSpec
     extends WordSpec
@@ -15,6 +16,7 @@ class PriceRouteSpec
     with ErrorAccumulatingCirceSupport {
 
   val coindeskActor: ActorRef = system.actorOf(CoindeskClientActor.props, "coindeskActor")
+  implicit def default(implicit system: ActorSystem) = RouteTestTimeout(5.seconds)
 
   "The service" should {
     "reject a GET requests to the root path" in {
@@ -23,9 +25,25 @@ class PriceRouteSpec
       }
     }
 
-    "return a 'hello' response for GET requests to /prices" in {
+    "return price from coindesk for Bitcoin in USD" in {
       Get("/prices") ~> priceRoutes(coindeskActor) ~> check {
-        responseAs[BitcoinPrice] shouldEqual BitcoinPrice("10.0")
+        responseAs[CurrencyData] match {
+          case CurrencyData(currency, symbol, price, description, float) =>
+            currency shouldEqual "USD"
+            symbol shouldEqual "&#36;"
+            price.replaceAll(",", "").toDouble should be > 0.0
+            description shouldEqual "United States Dollar"
+            float should be > 0.0
+        }
+      }
+    }
+
+    "return supported cryptocurrency from file" in {
+      Get("/supportedCoins") ~> supportedCoins ~> check {
+        responseAs[SupportedCoins] match {
+          case SupportedCoins(coins) =>
+            coins shouldEqual List(CoinInfo("BTC", "Bitcoin"), CoinInfo("ETH", "Ethereum"))
+        }
       }
     }
 
