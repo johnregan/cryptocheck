@@ -1,25 +1,32 @@
 package routes
 
-import akka.actor.ActorRef
+import java.util.UUID
+
+import akka.actor.ActorSystem
 import akka.http.scaladsl.model.StatusCodes
 import akka.http.scaladsl.server.{ Directives, Route }
 import akka.pattern.ask
+import akka.stream.ActorMaterializer
+import client._
 import de.heikoseeberger.akkahttpcirce.ErrorAccumulatingCirceSupport
 import io.circe.generic.auto._
-import model.{ CurrencyData, RequestPrice, SupportedCoins }
+import model.SupportedCoins
 
+import scala.concurrent.ExecutionContext.Implicits.global
 import scala.concurrent.Future
 import scala.io.Source
-import scala.concurrent.ExecutionContext.Implicits.global
 
 trait PriceRoutes extends Directives with ErrorAccumulatingCirceSupport with PredefinedTimeout {
 
-  def priceRoutes(coindeskClientActor: ActorRef): Route =
+  def priceRoutes(system: ActorSystem, materializer: ActorMaterializer): Route =
     pathPrefix("prices") {
       get {
-        onSuccess(coindeskClientActor ? RequestPrice) {
-          case Right(cd: CurrencyData) => complete(cd)
-          case Left(error) => complete(StatusCodes.BadRequest, error.toString)
+        val aggregator =
+          system.actorOf(ResponseAggregatorActor.props(materializer), "responseAggregatorActor" + UUID.randomUUID())
+
+        onSuccess(aggregator ? PricesRequest) {
+          case ErrorEncountered(errorMsg) => complete(errorMsg)
+          case PricesAggregated(prices)   => complete(prices)
         }
       }
     }

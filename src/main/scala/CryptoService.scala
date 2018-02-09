@@ -10,6 +10,5 @@ object CryptoService extends App with BaseService with AppConfig {
   implicit val executor:     ExecutionContextExecutor = system.dispatcher
   implicit val materializer: ActorMaterializer        = ActorMaterializer()
 
-  val coindeskActor: ActorRef = system.actorOf(CoindeskClientActor.props, "coindeskActor")
-  Http().bindAndHandle(routes(coindeskActor), httpInterface, httpPort)
+  Http().bindAndHandle(routes(system, materializer), httpInterface, httpPort)
 }

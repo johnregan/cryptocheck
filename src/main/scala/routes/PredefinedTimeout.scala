@@ -7,5 +7,5 @@ import scala.language.postfixOps
 
 trait PredefinedTimeout {
 
-  implicit val timeout: Timeout = Timeout(10 seconds)
+  implicit val timeout: Timeout = Timeout(20 seconds)
 }

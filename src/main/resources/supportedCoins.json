@@ -1,9 +1,8 @@
 {
-  "coins": [
-    {
-      "Symbol": "BTC",
-      "CoinName": "Bitcoin"
-    },
+  "coins": [{
+    "Symbol": "BTC",
+    "CoinName": "Bitcoin"
+  },
     {
       "Symbol": "ETH",
       "CoinName": "Ethereum"
@@ -265,10 +264,6 @@
       "CoinName": "ByteCoin"
     },
     {
-      "Symbol": "BTG*",
-      "CoinName": "BitGem"
-    },
-    {
       "Symbol": "BUK",
       "CoinName": "CryptoBuk"
     },
@@ -349,10 +344,6 @@
       "CoinName": "CrackCoin"
     },
     {
-      "Symbol": "CRC*",
-      "CoinName": "CraftCoin"
-    },
-    {
       "Symbol": "CRYPT",
       "CoinName": "CryptCoin"
     },
@@ -403,10 +394,6 @@
     {
       "Symbol": "EZC",
       "CoinName": "EZCoin"
-    },
-    {
-      "Symbol": "FLAP",
-      "CoinName": "Flappy Coin"
     },
     {
       "Symbol": "FC2",
@@ -525,20 +512,8 @@
       "CoinName": "Klondike Coin"
     },
     {
-      "Symbol": "KEY*",
-      "CoinName": "KeyCoin"
-    },
-    {
       "Symbol": "KGC",
       "CoinName": "KrugerCoin"
-    },
-    {
-      "Symbol": "LAB*",
-      "CoinName": "CoinWorksCoin"
-    },
-    {
-      "Symbol": "LGD*",
-      "CoinName": "Legendary Coin"
     },
     {
       "Symbol": "LK7",
@@ -603,10 +578,6 @@
     {
       "Symbol": "MRY",
       "CoinName": "MurrayCoin"
-    },
-    {
-      "Symbol": "MYST*",
-      "CoinName": "MysteryCoin"
     },
     {
       "Symbol": "MZC",
@@ -691,10 +662,6 @@
     {
       "Symbol": "PSEUD",
       "CoinName": "PseudoCash"
-    },
-    {
-      "Symbol": "PTS*",
-      "CoinName": "Protoshares"
     },
     {
       "Symbol": "PXC",
@@ -941,10 +908,6 @@
       "CoinName": "ZedCoins"
     },
     {
-      "Symbol": "ZRC*",
-      "CoinName": "ZiftrCoin"
-    },
-    {
       "Symbol": "BCN",
       "CoinName": "ByteCoin"
     },
@@ -1101,10 +1064,6 @@
       "CoinName": "Dnotes"
     },
     {
-      "Symbol": "GRID*",
-      "CoinName": "GridPay"
-    },
-    {
       "Symbol": "FLO",
       "CoinName": "FlorinCoin"
     },
@@ -1137,10 +1096,6 @@
       "CoinName": "AmberCoin"
     },
     {
-      "Symbol": "JPC",
-      "CoinName": "JackPotCoin"
-    },
-    {
       "Symbol": "NKT",
       "CoinName": "NakomotoDark"
     },
@@ -1151,10 +1106,6 @@
     {
       "Symbol": "GHC",
       "CoinName": "GhostCoin"
-    },
-    {
-      "Symbol": "DTC*",
-      "CoinName": "DayTrader Coin"
     },
     {
       "Symbol": "ABY",
@@ -1521,10 +1472,6 @@
       "CoinName": "Singular"
     },
     {
-      "Symbol": "BTX*",
-      "CoinName": "BitcoinTX"
-    },
-    {
       "Symbol": "DCC",
       "CoinName": "DarkCrave"
     },
@@ -1543,10 +1490,6 @@
     {
       "Symbol": "EDGE",
       "CoinName": "EdgeCoin"
-    },
-    {
-      "Symbol": "LUX*",
-      "CoinName": "BitLux"
     },
     {
       "Symbol": "FUTC",
@@ -1591,10 +1534,6 @@
     {
       "Symbol": "DRZ",
       "CoinName": "Droidz"
-    },
-    {
-      "Symbol": "BUCKS*",
-      "CoinName": "GorillaBucks"
     },
     {
       "Symbol": "BSC",
@@ -1757,10 +1696,6 @@
       "CoinName": "ParkByte"
     },
     {
-      "Symbol": "STR*",
-      "CoinName": "StarCoin"
-    },
-    {
       "Symbol": "SNRG",
       "CoinName": "Synergy"
     },
@@ -1795,10 +1730,6 @@
     {
       "Symbol": "CON",
       "CoinName": "Paycon"
-    },
-    {
-      "Symbol": "NEU*",
-      "CoinName": "NeuCoin"
     },
     {
       "Symbol": "GRS",
@@ -1847,10 +1778,6 @@
     {
       "Symbol": "BLITZ",
       "CoinName": "BlitzCoin"
-    },
-    {
-      "Symbol": "HIRE*",
-      "CoinName": "BitHIRE"
     },
     {
       "Symbol": "EGC",
@@ -1953,10 +1880,6 @@
       "CoinName": "BiosCrypto"
     },
     {
-      "Symbol": "KNC*",
-      "CoinName": "Khancoin"
-    },
-    {
       "Symbol": "CAB",
       "CoinName": "CabbageUnit"
     },
@@ -2023,10 +1946,6 @@
     {
       "Symbol": "BAC",
       "CoinName": "BitalphaCoin"
-    },
-    {
-      "Symbol": "XID*",
-      "CoinName": "International Diamond Coin"
     },
     {
       "Symbol": "GRT",
@@ -2127,10 +2046,6 @@
     {
       "Symbol": "YOC",
       "CoinName": "YoCoin"
-    },
-    {
-      "Symbol": "COIN*",
-      "CoinName": "Coin"
     },
     {
       "Symbol": "VPRC",
@@ -2377,10 +2292,6 @@
       "CoinName": "XanaxCoin"
     },
     {
-      "Symbol": "STAR*",
-      "CoinName": "StarCoin"
-    },
-    {
       "Symbol": "STHR",
       "CoinName": "Stakerush"
     },
@@ -2407,10 +2318,6 @@
     {
       "Symbol": "SHREK",
       "CoinName": "ShrekCoin"
-    },
-    {
-      "Symbol": "STA*",
-      "CoinName": "Stakers"
     },
     {
       "Symbol": "RISE",
@@ -2547,10 +2454,6 @@
     {
       "Symbol": "GSY",
       "CoinName": "GenesysCoin"
-    },
-    {
-      "Symbol": "TKN*",
-      "CoinName": "TrollTokens"
     },
     {
       "Symbol": "LIR",
@@ -2701,16 +2604,8 @@
       "CoinName": "Wings DAO"
     },
     {
-      "Symbol": "CDX*",
-      "CoinName": "Cryptodex"
-    },
-    {
       "Symbol": "RBIT",
       "CoinName": "ReturnBit"
-    },
-    {
-      "Symbol": "DCS.",
-      "CoinName": "deCLOUDs"
     },
     {
       "Symbol": "KMD",
@@ -2731,10 +2626,6 @@
     {
       "Symbol": "SYNX",
       "CoinName": "Syndicate"
-    },
-    {
-      "Symbol": "MC",
-      "CoinName": "Mass Coin"
     },
     {
       "Symbol": "EDR",
@@ -2765,16 +2656,8 @@
       "CoinName": "bitUSD"
     },
     {
-      "Symbol": "ATM*",
-      "CoinName": "Autumncoin"
-    },
-    {
       "Symbol": "STO",
       "CoinName": "Save The Ocean"
-    },
-    {
-      "Symbol": "SNS",
-      "CoinName": "Sense"
     },
     {
       "Symbol": "FSN",
@@ -2793,10 +2676,6 @@
       "CoinName": "Bitcloud"
     },
     {
-      "Symbol": "BOTS",
-      "CoinName": "ArkDAO"
-    },
-    {
       "Symbol": "MDC",
       "CoinName": "MedicCoin"
     },
@@ -2807,10 +2686,6 @@
     {
       "Symbol": "ZET2",
       "CoinName": "Zeta2Coin"
-    },
-    {
-      "Symbol": "COV*",
-      "CoinName": "CovenCoin"
     },
     {
       "Symbol": "KRB",
@@ -2827,10 +2702,6 @@
     {
       "Symbol": "TDFB",
       "CoinName": "TDFB"
-    },
-    {
-      "Symbol": "BLOCKPAY",
-      "CoinName": "BlockPay"
     },
     {
       "Symbol": "BXT",
@@ -2927,10 +2798,6 @@
     {
       "Symbol": "RING",
       "CoinName": "RingCoin"
-    },
-    {
-      "Symbol": "ERB",
-      "CoinName": "ERBCoin"
     },
     {
       "Symbol": "LAZ",
@@ -3049,14 +2916,6 @@
       "CoinName": "EGOcoin"
     },
     {
-      "Symbol": "BTCL*",
-      "CoinName": "BitluckCoin"
-    },
-    {
-      "Symbol": "RCN*",
-      "CoinName": "RCoin"
-    },
-    {
       "Symbol": "X2",
       "CoinName": "X2Coin"
     },
@@ -3089,10 +2948,6 @@
       "CoinName": "BaseballCardCoin"
     },
     {
-      "Symbol": "EMIGR",
-      "CoinName": "EmiratesGoldCoin"
-    },
-    {
       "Symbol": "BHC",
       "CoinName": "BighanCoin"
     },
@@ -3119,10 +2974,6 @@
     {
       "Symbol": "HKG",
       "CoinName": "Hacker Gold"
-    },
-    {
-      "Symbol": "ANTC",
-      "CoinName": "AntiLitecoin"
     },
     {
       "Symbol": "JOBS",
@@ -3207,10 +3058,6 @@
     {
       "Symbol": "CRAB",
       "CoinName": "CrabCoin"
-    },
-    {
-      "Symbol": "AIR*",
-      "CoinName": "Aircoin"
     },
     {
       "Symbol": "HILL",
@@ -3481,16 +3328,8 @@
       "CoinName": "FistBump"
     },
     {
-      "Symbol": "EBZ",
-      "CoinName": "Ebitz"
-    },
-    {
       "Symbol": "365",
       "CoinName": "365Coin"
-    },
-    {
-      "Symbol": "DRS",
-      "CoinName": "Digital Rupees"
     },
     {
       "Symbol": "FGZ",
@@ -3531,10 +3370,6 @@
     {
       "Symbol": "BTTF",
       "CoinName": "Coin to the Future"
-    },
-    {
-      "Symbol": "DLR",
-      "CoinName": "DollarOnline"
     },
     {
       "Symbol": "CSMIC",
@@ -3609,10 +3444,6 @@
       "CoinName": "UR"
     },
     {
-      "Symbol": "MTLM3",
-      "CoinName": "Metal Music v3"
-    },
-    {
       "Symbol": "ODNT",
       "CoinName": "Old Dogs New Tricks"
     },
@@ -3661,10 +3492,6 @@
       "CoinName": "CoralPay"
     },
     {
-      "Symbol": "BamitCoin",
-      "CoinName": "BAM"
-    },
-    {
       "Symbol": "NXC",
       "CoinName": "Nexium"
     },
@@ -3695,10 +3522,6 @@
     {
       "Symbol": "CCRB",
       "CoinName": "CryptoCarbon"
-    },
-    {
-      "Symbol": "BULLS",
-      "CoinName": "BullshitCoin"
     },
     {
       "Symbol": "INCNT",
@@ -3785,10 +3608,6 @@
       "CoinName": "PXcoin"
     },
     {
-      "Symbol": "CND*",
-      "CoinName": "Canada eCoin"
-    },
-    {
       "Symbol": "OPTION",
       "CoinName": "OptionCoin"
     },
@@ -3843,10 +3662,6 @@
     {
       "Symbol": "XPRO",
       "CoinName": "ProCoin"
-    },
-    {
-      "Symbol": "AST*",
-      "CoinName": "Astral"
     },
     {
       "Symbol": "GIFT",
@@ -3943,10 +3758,6 @@
     {
       "Symbol": "NTCC",
       "CoinName": "NeptuneClassic"
-    },
-    {
-      "Symbol": "XNC*",
-      "CoinName": "Numismatic Collections"
     },
     {
       "Symbol": "HXX",
@@ -4109,10 +3920,6 @@
       "CoinName": "MarxCoin"
     },
     {
-      "Symbol": "TAT",
-      "CoinName": "Tatiana Coin"
-    },
-    {
       "Symbol": "HAZE",
       "CoinName": "HazeCoin"
     },
@@ -4211,10 +4018,6 @@
     {
       "Symbol": "ACES",
       "CoinName": "AcesCoin"
-    },
-    {
-      "Symbol": "UAEC",
-      "CoinName": "United Arab Emirates Coin"
     },
     {
       "Symbol": "EA",
@@ -4393,10 +4196,6 @@
       "CoinName": "Cubits"
     },
     {
-      "Symbol": "SRC*",
-      "CoinName": "StarCredits"
-    },
-    {
       "Symbol": "EB3",
       "CoinName": "EB3coin"
     },
@@ -4419,10 +4218,6 @@
     {
       "Symbol": "ARPA",
       "CoinName": "ArpaCoin"
-    },
-    {
-      "Symbol": "BNB*",
-      "CoinName": "Boats and Bitches"
     },
     {
       "Symbol": "UNI",
@@ -4565,10 +4360,6 @@
       "CoinName": "GoldReserve"
     },
     {
-      "Symbol": "WRC*",
-      "CoinName": "WarCoin"
-    },
-    {
       "Symbol": "BENJI",
       "CoinName": "BenjiRolls"
     },
@@ -4601,10 +4392,6 @@
       "CoinName": "MiloCoin"
     },
     {
-      "Symbol": "OLV",
-      "CoinName": "OldV"
-    },
-    {
       "Symbol": "ILC",
       "CoinName": "ILCoin"
     },
@@ -4615,10 +4402,6 @@
     {
       "Symbol": "IOU",
       "CoinName": "IOU1"
-    },
-    {
-      "Symbol": "PZM",
-      "CoinName": "Prizm"
     },
     {
       "Symbol": "PHR",
@@ -4673,10 +4456,6 @@
       "CoinName": "MilkCoin"
     },
     {
-      "Symbol": "INF8",
-      "CoinName": "Infinium-8"
-    },
-    {
       "Symbol": "HTML5",
       "CoinName": "HTML Coin"
     },
@@ -4687,10 +4466,6 @@
     {
       "Symbol": "DICE",
       "CoinName": "Etheroll"
-    },
-    {
-      "Symbol": "SUB*",
-      "CoinName": "Subscriptio"
     },
     {
       "Symbol": "USC",
@@ -4715,10 +4490,6 @@
     {
       "Symbol": "BAT",
       "CoinName": "Basic Attention Token"
-    },
-    {
-      "Symbol": "MAT*",
-      "CoinName": "Manet Coin"
     },
     {
       "Symbol": "F16",
@@ -4759,10 +4530,6 @@
     {
       "Symbol": "ADL",
       "CoinName": "Adelphoi"
-    },
-    {
-      "Symbol": "ECC*",
-      "CoinName": "E-CurrencyCoin"
     },
     {
       "Symbol": "PTOY",
@@ -4913,20 +4680,12 @@
       "CoinName": "Harbour DAO"
     },
     {
-      "Symbol": "NET*",
-      "CoinName": "Nimiq Exchange Token"
-    },
-    {
       "Symbol": "8BT",
       "CoinName": "8 Circuit Studios"
     },
     {
       "Symbol": "CDT",
       "CoinName": "CoinDash"
-    },
-    {
-      "Symbol": "ACT",
-      "CoinName": "ACT"
     },
     {
       "Symbol": "DNT",
@@ -4939,14 +4698,6 @@
     {
       "Symbol": "PING",
       "CoinName": "CryptoPing"
-    },
-    {
-      "Symbol": "MIV",
-      "CoinName": "MakeItViral"
-    },
-    {
-      "Symbol": "BET*",
-      "CoinName": "DAO.casino"
     },
     {
       "Symbol": "SAN",
@@ -4963,10 +4714,6 @@
     {
       "Symbol": "XEL",
       "CoinName": "Elastic"
-    },
-    {
-      "Symbol": "NVST",
-      "CoinName": "NVO"
     },
     {
       "Symbol": "FUN",
@@ -5017,10 +4764,6 @@
       "CoinName": "Rialto.AI"
     },
     {
-      "Symbol": "OROC",
-      "CoinName": "Orocrypt"
-    },
-    {
       "Symbol": "OAX",
       "CoinName": "OpenANX"
     },
@@ -5043,10 +4786,6 @@
     {
       "Symbol": "FYN",
       "CoinName": "FundYourselfNow"
-    },
-    {
-      "Symbol": "FND",
-      "CoinName": "FundRequest"
     },
     {
       "Symbol": "DCY",
@@ -5081,16 +4820,8 @@
       "CoinName": "BritCoin"
     },
     {
-      "Symbol": "AMMO",
-      "CoinName": "Ammo Rewards"
-    },
-    {
       "Symbol": "SOCC",
       "CoinName": "SocialCoin"
-    },
-    {
-      "Symbol": "MASS",
-      "CoinName": "Mass.Cloud"
     },
     {
       "Symbol": "LA",
@@ -5121,28 +4852,12 @@
       "CoinName": "InvestFeed"
     },
     {
-      "Symbol": "CAT*",
-      "CoinName": "BitClave"
-    },
-    {
       "Symbol": "PRO",
       "CoinName": "Propy"
     },
     {
-      "Symbol": "SYC",
-      "CoinName": "SynchroCoin"
-    },
-    {
       "Symbol": "IND",
       "CoinName": "Indorse"
-    },
-    {
-      "Symbol": "AHT*",
-      "CoinName": "Bowhead Health"
-    },
-    {
-      "Symbol": "TRIBE",
-      "CoinName": "TribeToken"
     },
     {
       "Symbol": "ZRX",
@@ -5151,10 +4866,6 @@
     {
       "Symbol": "TNT",
       "CoinName": "Tierion"
-    },
-    {
-      "Symbol": "PRE*",
-      "CoinName": "Presearch"
     },
     {
       "Symbol": "COSS",
@@ -5177,10 +4888,6 @@
       "CoinName": "Octanox"
     },
     {
-      "Symbol": "EQB",
-      "CoinName": "Equibit"
-    },
-    {
       "Symbol": "VOISE",
       "CoinName": "Voise"
     },
@@ -5189,16 +4896,8 @@
       "CoinName": "EthBits"
     },
     {
-      "Symbol": "CVCOIN",
-      "CoinName": "Crypviser"
-    },
-    {
       "Symbol": "DRP",
       "CoinName": "DCORP"
-    },
-    {
-      "Symbol": "BOG",
-      "CoinName": "Bogcoin"
     },
     {
       "Symbol": "NDC",
@@ -5233,10 +4932,6 @@
       "CoinName": "BeachCoin"
     },
     {
-      "Symbol": "XAI*",
-      "CoinName": "AICoin"
-    },
-    {
       "Symbol": "DMT",
       "CoinName": "DMarket"
     },
@@ -5251,10 +4946,6 @@
     {
       "Symbol": "CAT",
       "CoinName": "BlockCAT"
-    },
-    {
-      "Symbol": "XCJ",
-      "CoinName": "CoinJob"
     },
     {
       "Symbol": "RKC",
@@ -5277,10 +4968,6 @@
       "CoinName": "King93"
     },
     {
-      "Symbol": "ANCP",
-      "CoinName": "Anacrypt"
-    },
-    {
       "Symbol": "RCC",
       "CoinName": "Reality Clash"
     },
@@ -5289,24 +4976,8 @@
       "CoinName": "RootProject"
     },
     {
-      "Symbol": "SNK",
-      "CoinName": "Sosnovkino"
-    },
-    {
-      "Symbol": "CABS",
-      "CoinName": "CryptoABS"
-    },
-    {
       "Symbol": "OPT",
       "CoinName": "Opus"
-    },
-    {
-      "Symbol": "ZNT",
-      "CoinName": "OpenZen"
-    },
-    {
-      "Symbol": "BITSD",
-      "CoinName": "Bits Digit"
     },
     {
       "Symbol": "XLC",
@@ -5325,16 +4996,8 @@
       "CoinName": "HireMatch"
     },
     {
-      "Symbol": "BBT*",
-      "CoinName": "BrickBlock"
-    },
-    {
       "Symbol": "REAL",
       "CoinName": "REAL"
-    },
-    {
-      "Symbol": "DFBT",
-      "CoinName": "DentalFix"
     },
     {
       "Symbol": "EQ",
@@ -5369,16 +5032,8 @@
       "CoinName": "GCoin"
     },
     {
-      "Symbol": "ATOM*",
-      "CoinName": "Cosmos"
-    },
-    {
       "Symbol": "MANA",
       "CoinName": "Decentraland"
-    },
-    {
-      "Symbol": "ICOO",
-      "CoinName": "ICO OpenLedger"
     },
     {
       "Symbol": "TME",
@@ -5417,10 +5072,6 @@
       "CoinName": "DigiPulse"
     },
     {
-      "Symbol": "MOBI",
-      "CoinName": "Mobius"
-    },
-    {
       "Symbol": "CSNO",
       "CoinName": "BitDice"
     },
@@ -5445,20 +5096,12 @@
       "CoinName": "Core Group Asset"
     },
     {
-      "Symbol": "KCN",
-      "CoinName": "Kencoin"
-    },
-    {
       "Symbol": "QVT",
       "CoinName": "Qvolta"
     },
     {
       "Symbol": "TIE",
       "CoinName": "Ties Network"
-    },
-    {
-      "Symbol": "AUT",
-      "CoinName": "Autoria"
     },
     {
       "Symbol": "CTT",
@@ -5485,16 +5128,8 @@
       "CoinName": "Umbrella Coin"
     },
     {
-      "Symbol": "BMXT",
-      "CoinName": "Bitmxittz"
-    },
-    {
       "Symbol": "GAS",
       "CoinName": "Gas"
-    },
-    {
-      "Symbol": "FIL",
-      "CoinName": "FileCoin"
     },
     {
       "Symbol": "OCL",
@@ -5509,16 +5144,8 @@
       "CoinName": "Tomahawkcoin"
     },
     {
-      "Symbol": "BTM*",
-      "CoinName": "Bytom"
-    },
-    {
       "Symbol": "XAS",
       "CoinName": "Asch"
-    },
-    {
-      "Symbol": "SMNX",
-      "CoinName": "SMNX"
     },
     {
       "Symbol": "DCN",
@@ -5553,20 +5180,8 @@
       "CoinName": "Prospectors"
     },
     {
-      "Symbol": "AUTH",
-      "CoinName": "Authoreon"
-    },
-    {
-      "Symbol": "CASH*",
-      "CoinName": "Cash Poker Pro"
-    },
-    {
       "Symbol": "CMPCO",
       "CoinName": "CampusCoin"
-    },
-    {
-      "Symbol": "DTCT",
-      "CoinName": "DetectorToken"
     },
     {
       "Symbol": "CTR",
@@ -5593,10 +5208,6 @@
       "CoinName": "Fuck Token"
     },
     {
-      "Symbol": "VNT",
-      "CoinName": "Veredictum"
-    },
-    {
       "Symbol": "SIFT",
       "CoinName": "Smart Investment Fund Token"
     },
@@ -5607,10 +5218,6 @@
     {
       "Symbol": "IWT",
       "CoinName": "IwToken"
-    },
-    {
-      "Symbol": "JDC",
-      "CoinName": "JustDatingSite"
     },
     {
       "Symbol": "ITT",
@@ -5645,24 +5252,12 @@
       "CoinName": "Hello Gold"
     },
     {
-      "Symbol": "LTA",
-      "CoinName": "Litra"
-    },
-    {
       "Symbol": "NIMFA",
       "CoinName": "Nimfamoney"
     },
     {
-      "Symbol": "SCOR",
-      "CoinName": "Scorista"
-    },
-    {
       "Symbol": "MLS",
       "CoinName": "CPROP"
-    },
-    {
-      "Symbol": "KEX",
-      "CoinName": "KexCoin"
     },
     {
       "Symbol": "COB",
@@ -5675,14 +5270,6 @@
     {
       "Symbol": "ATL",
       "CoinName": "ATLANT"
-    },
-    {
-      "Symbol": "ARI*",
-      "CoinName": "BeckSang"
-    },
-    {
-      "Symbol": "MAG*",
-      "CoinName": "Magos"
     },
     {
       "Symbol": "DFT",
@@ -5709,10 +5296,6 @@
       "CoinName": "Stakecoin"
     },
     {
-      "Symbol": "SQP",
-      "CoinName": "SqPay"
-    },
-    {
       "Symbol": "RIYA",
       "CoinName": "Etheriya"
     },
@@ -5725,20 +5308,8 @@
       "CoinName": "Ambrosus"
     },
     {
-      "Symbol": "WAN",
-      "CoinName": "Wanchain"
-    },
-    {
-      "Symbol": "MNT",
-      "CoinName": "GoldMint"
-    },
-    {
       "Symbol": "ALTOCAR",
       "CoinName": "AltoCar"
-    },
-    {
-      "Symbol": "CFT*",
-      "CoinName": "Credo"
     },
     {
       "Symbol": "BLX",
@@ -5749,20 +5320,8 @@
       "CoinName": "BANKEX"
     },
     {
-      "Symbol": "BOU",
-      "CoinName": "Boulle"
-    },
-    {
       "Symbol": "OXY",
       "CoinName": "Oxycoin"
-    },
-    {
-      "Symbol": "TTT",
-      "CoinName": "Tap Project"
-    },
-    {
-      "Symbol": "AMT",
-      "CoinName": "Acumen"
     },
     {
       "Symbol": "GIM",
@@ -5797,28 +5356,8 @@
       "CoinName": "Kronecoin"
     },
     {
-      "Symbol": "SRT",
-      "CoinName": "Scrypto"
-    },
-    {
-      "Symbol": "AVA",
-      "CoinName": "Avalon"
-    },
-    {
-      "Symbol": "BT",
-      "CoinName": "BuildTeam"
-    },
-    {
       "Symbol": "ACC",
       "CoinName": "AdCoin"
-    },
-    {
-      "Symbol": "AR*",
-      "CoinName": "Ar.cash"
-    },
-    {
-      "Symbol": "Z2",
-      "CoinName": "Z2 Coin"
     },
     {
       "Symbol": "LINX",
@@ -5845,10 +5384,6 @@
       "CoinName": "Cryptum"
     },
     {
-      "Symbol": "EON",
-      "CoinName": "Exscudo"
-    },
-    {
       "Symbol": "PST",
       "CoinName": "Primas"
     },
@@ -5873,10 +5408,6 @@
       "CoinName": "Cryptonex"
     },
     {
-      "Symbol": "DRC",
-      "CoinName": "Dropcoin"
-    },
-    {
       "Symbol": "FUEL",
       "CoinName": "Etherparty"
     },
@@ -5893,10 +5424,6 @@
       "CoinName": "Breakout Stake"
     },
     {
-      "Symbol": "UCASH",
-      "CoinName": "U.CASH"
-    },
-    {
       "Symbol": "WRT",
       "CoinName": "WRTcoin"
     },
@@ -5909,52 +5436,16 @@
       "CoinName": "Deep Gold"
     },
     {
-      "Symbol": "TMT",
-      "CoinName": "ToTheMoon"
-    },
-    {
-      "Symbol": "CCT*",
-      "CoinName": "Crystal Clear Token "
-    },
-    {
-      "Symbol": "WSH",
-      "CoinName": "Wish Finance"
-    },
-    {
-      "Symbol": "ARNA*",
-      "CoinName": "ARNA Panacea"
-    },
-    {
       "Symbol": "ABC",
       "CoinName": "AB-Chain"
-    },
-    {
-      "Symbol": "PRP",
-      "CoinName": "Papyrus"
     },
     {
       "Symbol": "BMC",
       "CoinName": "Blackmoon Crypto"
     },
     {
-      "Symbol": "SKR*",
-      "CoinName": "Skrilla Token"
-    },
-    {
-      "Symbol": "3DES",
-      "CoinName": "3DES"
-    },
-    {
       "Symbol": "PYN",
       "CoinName": "Paycentos"
-    },
-    {
-      "Symbol": "KAPU",
-      "CoinName": "Kapu"
-    },
-    {
-      "Symbol": "SENSE",
-      "CoinName": "Sense Token"
     },
     {
       "Symbol": "CAPP",
@@ -5969,10 +5460,6 @@
       "CoinName": "Ripio"
     },
     {
-      "Symbol": "NRN",
-      "CoinName": "Doc.ai Neuron"
-    },
-    {
       "Symbol": "EVC",
       "CoinName": "Eventchain"
     },
@@ -5981,24 +5468,12 @@
       "CoinName": "ChainLink"
     },
     {
-      "Symbol": "WIZ",
-      "CoinName": "Crowdwiz"
-    },
-    {
       "Symbol": "EDO",
       "CoinName": "Eidoo"
     },
     {
-      "Symbol": "ATKN",
-      "CoinName": "A-Token"
-    },
-    {
       "Symbol": "KNC",
       "CoinName": "Kyber Network"
-    },
-    {
-      "Symbol": "RUSTBITS",
-      "CoinName": "Rustbits"
     },
     {
       "Symbol": "REX",
@@ -6017,20 +5492,8 @@
       "CoinName": "Tronix"
     },
     {
-      "Symbol": "8S",
-      "CoinName": "Elite 888"
-    },
-    {
       "Symbol": "H2O",
       "CoinName": "Hydrominer"
-    },
-    {
-      "Symbol": "TKT",
-      "CoinName": "Crypto Tickets"
-    },
-    {
-      "Symbol": "RHEA",
-      "CoinName": "Rhea"
     },
     {
       "Symbol": "ART",
@@ -6043,22 +5506,6 @@
     {
       "Symbol": "SNOV",
       "CoinName": "Snovio"
-    },
-    {
-      "Symbol": "DTT",
-      "CoinName": "DreamTeam Token"
-    },
-    {
-      "Symbol": "MTN",
-      "CoinName": "TrackNetToken"
-    },
-    {
-      "Symbol": "STOCKBET",
-      "CoinName": "StockBet"
-    },
-    {
-      "Symbol": "PLM",
-      "CoinName": "Algo.Land"
     },
     {
       "Symbol": "FDC",
@@ -6085,28 +5532,12 @@
       "CoinName": "Hshare"
     },
     {
-      "Symbol": "GLA",
-      "CoinName": "Gladius"
-    },
-    {
-      "Symbol": "ZNA",
-      "CoinName": "Zenome"
-    },
-    {
-      "Symbol": "EZM",
-      "CoinName": "EZMarket"
-    },
-    {
       "Symbol": "ODN",
       "CoinName": "Obsidian"
     },
     {
       "Symbol": "POLL",
       "CoinName": "ClearPoll"
-    },
-    {
-      "Symbol": "MTK",
-      "CoinName": "Moya Token"
     },
     {
       "Symbol": "CAS",
@@ -6117,16 +5548,8 @@
       "CoinName": "MiniApps"
     },
     {
-      "Symbol": "GJC",
-      "CoinName": "Global Jobcoin"
-    },
-    {
       "Symbol": "WIC",
       "CoinName": "Wi Coin"
-    },
-    {
-      "Symbol": "WEB",
-      "CoinName": "Webcoin"
     },
     {
       "Symbol": "WAND",
@@ -6161,28 +5584,12 @@
       "CoinName": "Bismuth"
     },
     {
-      "Symbol": "OPP",
-      "CoinName": "Opporty"
-    },
-    {
-      "Symbol": "ROCK",
-      "CoinName": "Ice Rock Mining"
-    },
-    {
       "Symbol": "ICX",
       "CoinName": "ICON Project"
     },
     {
-      "Symbol": "WISH*",
-      "CoinName": "WishFinance"
-    },
-    {
       "Symbol": "FLASH",
       "CoinName": "FLASH coin"
-    },
-    {
-      "Symbol": "GRF*",
-      "CoinName": "Graft Blockchain"
     },
     {
       "Symbol": "BTCZ",
@@ -6217,24 +5624,8 @@
       "CoinName": "Esports.com"
     },
     {
-      "Symbol": "BAC*",
-      "CoinName": "LakeBanker"
-    },
-    {
       "Symbol": "FLIK",
       "CoinName": "FLiK"
-    },
-    {
-      "Symbol": "TRIP",
-      "CoinName": "Trippki"
-    },
-    {
-      "Symbol": "MBT",
-      "CoinName": "Multibot"
-    },
-    {
-      "Symbol": "JVY",
-      "CoinName": "Javvy"
     },
     {
       "Symbol": "ALIS",
@@ -6243,14 +5634,6 @@
     {
       "Symbol": "LEV",
       "CoinName": "Leverj"
-    },
-    {
-      "Symbol": "ARBI",
-      "CoinName": "Arbi"
-    },
-    {
-      "Symbol": "ELT",
-      "CoinName": "Eloplay"
     },
     {
       "Symbol": "REQ",
@@ -6269,14 +5652,6 @@
       "CoinName": "VIBEHub"
     },
     {
-      "Symbol": "ROK",
-      "CoinName": "Rockchain"
-    },
-    {
-      "Symbol": "XRED",
-      "CoinName": "X Real Estate Development"
-    },
-    {
       "Symbol": "DAY",
       "CoinName": "Chronologic"
     },
@@ -6289,16 +5664,8 @@
       "CoinName": "Gameflip"
     },
     {
-      "Symbol": "HXT",
-      "CoinName": "HextraCoin"
-    },
-    {
       "Symbol": "CND",
       "CoinName": "Cindicator"
-    },
-    {
-      "Symbol": "VRP*",
-      "CoinName": "Prosense.tv"
     },
     {
       "Symbol": "NTM",
@@ -6349,10 +5716,6 @@
       "CoinName": "eLTC"
     },
     {
-      "Symbol": "ILCT",
-      "CoinName": "ILCoin Token"
-    },
-    {
       "Symbol": "POWR",
       "CoinName": "Power Ledger"
     },
@@ -6365,10 +5728,6 @@
       "CoinName": "Anryze"
     },
     {
-      "Symbol": "GXC*",
-      "CoinName": "GenXCoin"
-    },
-    {
       "Symbol": "ELM",
       "CoinName": "Elements"
     },
@@ -6377,24 +5736,12 @@
       "CoinName": "TerraNovaCoin"
     },
     {
-      "Symbol": "XCS",
-      "CoinName": "CybCSec Coin"
-    },
-    {
       "Symbol": "BQ",
       "CoinName": "Bitqy"
     },
     {
-      "Symbol": "CAV",
-      "CoinName": "Caviar"
-    },
-    {
       "Symbol": "CLOUT",
       "CoinName": "Clout"
-    },
-    {
-      "Symbol": "PTC*",
-      "CoinName": "Propthereum"
     },
     {
       "Symbol": "WABI",
@@ -6407,10 +5754,6 @@
     {
       "Symbol": "TOA",
       "CoinName": "TOA Coin"
-    },
-    {
-      "Symbol": "MNZ",
-      "CoinName": "Monaize"
     },
     {
       "Symbol": "RPX",
@@ -6437,14 +5780,6 @@
       "CoinName": "Playkey"
     },
     {
-      "Symbol": "SMT**",
-      "CoinName": "Social Media Market"
-    },
-    {
-      "Symbol": "ECHT",
-      "CoinName": "e-Chat"
-    },
-    {
       "Symbol": "INXT",
       "CoinName": "Internxt"
     },
@@ -6469,10 +5804,6 @@
       "CoinName": "Modum"
     },
     {
-      "Symbol": "BM*",
-      "CoinName": "Bitcomo"
-    },
-    {
       "Symbol": "CPAY",
       "CoinName": "CryptoPay"
     },
@@ -6481,16 +5812,8 @@
       "CoinName": "Rupee"
     },
     {
-      "Symbol": "BON*",
-      "CoinName": "Bonpay"
-    },
-    {
       "Symbol": "APPC",
       "CoinName": "AppCoins"
-    },
-    {
-      "Symbol": "WHL",
-      "CoinName": "WhaleCoin"
     },
     {
       "Symbol": "BTG",
@@ -6513,16 +5836,8 @@
       "CoinName": "Theresa May Coin"
     },
     {
-      "Symbol": "RNDR",
-      "CoinName": "Render Token"
-    },
-    {
       "Symbol": "EDDIE",
       "CoinName": "Eddie coin"
-    },
-    {
-      "Symbol": "SCT*",
-      "CoinName": "Soma"
     },
     {
       "Symbol": "NAMO",
@@ -6545,14 +5860,6 @@
       "CoinName": "Follow Coin"
     },
     {
-      "Symbol": "WYR",
-      "CoinName": "Wyrify"
-    },
-    {
-      "Symbol": "VZT",
-      "CoinName": "Vezt"
-    },
-    {
       "Symbol": "INDI",
       "CoinName": "IndiCoin"
     },
@@ -6571,14 +5878,6 @@
     {
       "Symbol": "DRGN",
       "CoinName": "Dragonchain"
-    },
-    {
-      "Symbol": "ODMC",
-      "CoinName": "ODMCoin"
-    },
-    {
-      "Symbol": "CABS*",
-      "CoinName": "CyberTrust"
     },
     {
       "Symbol": "BRAT",
@@ -6617,24 +5916,8 @@
       "CoinName": "Realisto"
     },
     {
-      "Symbol": "AVE",
-      "CoinName": "Avesta"
-    },
-    {
       "Symbol": "XNN",
       "CoinName": "Xenon"
-    },
-    {
-      "Symbol": "LOAN*",
-      "CoinName": "Lendoit"
-    },
-    {
-      "Symbol": "ZAB",
-      "CoinName": "ZABERcoin"
-    },
-    {
-      "Symbol": "MDL",
-      "CoinName": "Modulum"
     },
     {
       "Symbol": "BT1",
@@ -6645,1888 +5928,12 @@
       "CoinName": "Bitcoin SegWit2X"
     },
     {
-      "Symbol": "SHP",
-      "CoinName": "Sharpe Capital"
-    },
-    {
-      "Symbol": "JCR",
-      "CoinName": "Jincor"
-    },
-    {
-      "Symbol": "XSB",
-      "CoinName": "Extreme Sportsbook"
-    },
-    {
-      "Symbol": "ATM**",
-      "CoinName": "ATMChain"
-    },
-    {
       "Symbol": "KEK",
       "CoinName": "KekCoin"
     },
     {
       "Symbol": "AID",
       "CoinName": "AidCoin"
-    },
-    {
-      "Symbol": "BHC*",
-      "CoinName": "BlackholeCoin"
-    },
-    {
-      "Symbol": "ALTCOM",
-      "CoinName": "AltCommunity Coin"
-    },
-    {
-      "Symbol": "OST",
-      "CoinName": "Simple Token"
-    },
-    {
-      "Symbol": "DATA",
-      "CoinName": "Streamr DATAcoin"
-    },
-    {
-      "Symbol": "UGC",
-      "CoinName": "ugChain"
-    },
-    {
-      "Symbol": "DTC",
-      "CoinName": "Datacoin"
-    },
-    {
-      "Symbol": "PLAY",
-      "CoinName": "HEROcoin"
-    },
-    {
-      "Symbol": "CLD",
-      "CoinName": "Cloud"
-    },
-    {
-      "Symbol": "OTN",
-      "CoinName": "Open Trading Network"
-    },
-    {
-      "Symbol": "POS",
-      "CoinName": "PoSToken"
-    },
-    {
-      "Symbol": "REBL",
-      "CoinName": "Rebellious"
-    },
-    {
-      "Symbol": "NEOG",
-      "CoinName": "NEO Gold"
-    },
-    {
-      "Symbol": "EXN",
-      "CoinName": "ExchangeN"
-    },
-    {
-      "Symbol": "INS",
-      "CoinName": "INS Ecosystem"
-    },
-    {
-      "Symbol": "TRCT",
-      "CoinName": "Tracto"
-    },
-    {
-      "Symbol": "UKG",
-      "CoinName": "UnikoinGold"
-    },
-    {
-      "Symbol": "BTCRED",
-      "CoinName": "Bitcoin Red"
-    },
-    {
-      "Symbol": "EBCH",
-      "CoinName": "eBitcoinCash"
-    },
-    {
-      "Symbol": "JPC*",
-      "CoinName": "J Coin"
-    },
-    {
-      "Symbol": "AXT",
-      "CoinName": "AIX"
-    },
-    {
-      "Symbol": "RDN*",
-      "CoinName": "Raiden Network"
-    },
-    {
-      "Symbol": "NEU",
-      "CoinName": "Neumark"
-    },
-    {
-      "Symbol": "RUPX",
-      "CoinName": "Rupaya"
-    },
-    {
-      "Symbol": "BDR",
-      "CoinName": "BlueDragon"
-    },
-    {
-      "Symbol": "XIN*",
-      "CoinName": "Infinity Economics"
-    },
-    {
-      "Symbol": "DUTCH",
-      "CoinName": "Dutch Coin"
-    },
-    {
-      "Symbol": "TIO",
-      "CoinName": "Trade.io"
-    },
-    {
-      "Symbol": "HNC*",
-      "CoinName": "Huncoin"
-    },
-    {
-      "Symbol": "HST",
-      "CoinName": "Decision Token"
-    },
-    {
-      "Symbol": "BCPT",
-      "CoinName": "BlockMason Credit Protocol"
-    },
-    {
-      "Symbol": "BDL",
-      "CoinName": "Bitdeal"
-    },
-    {
-      "Symbol": "CMS",
-      "CoinName": "COMSA"
-    },
-    {
-      "Symbol": "XBL",
-      "CoinName": "Billionaire Token"
-    },
-    {
-      "Symbol": "ZEPH",
-      "CoinName": "Project Zephyr"
-    },
-    {
-      "Symbol": "GES",
-      "CoinName": "Galaxy eSolutions"
-    },
-    {
-      "Symbol": "NULS",
-      "CoinName": "Nuls"
-    },
-    {
-      "Symbol": "LCASH",
-      "CoinName": "LitecoinCash"
-    },
-    {
-      "Symbol": "CFD",
-      "CoinName": "Confido"
-    },
-    {
-      "Symbol": "SPHTX",
-      "CoinName": "SophiaTX"
-    },
-    {
-      "Symbol": "PLC",
-      "CoinName": "PlusCoin"
-    },
-    {
-      "Symbol": "SRN",
-      "CoinName": "SirinLabs"
-    },
-    {
-      "Symbol": "WSC",
-      "CoinName": "WiserCoin"
-    },
-    {
-      "Symbol": "DBET",
-      "CoinName": "Decent.bet"
-    },
-    {
-      "Symbol": "xGOx",
-      "CoinName": "Go!"
-    },
-    {
-      "Symbol": "NEWB",
-      "CoinName": "Newbium"
-    },
-    {
-      "Symbol": "LIFE",
-      "CoinName": "LIFE"
-    },
-    {
-      "Symbol": "RMC",
-      "CoinName": "Russian Mining Coin"
-    },
-    {
-      "Symbol": "CREDO",
-      "CoinName": "Credo"
-    },
-    {
-      "Symbol": "MSR",
-      "CoinName": "Masari"
-    },
-    {
-      "Symbol": "CJT",
-      "CoinName": "ConnectJob Token"
-    },
-    {
-      "Symbol": "ESC*",
-      "CoinName": "Ethersportcoin"
-    },
-    {
-      "Symbol": "EVN",
-      "CoinName": "Envion"
-    },
-    {
-      "Symbol": "BNK",
-      "CoinName": "Bankera"
-    },
-    {
-      "Symbol": "ELLA",
-      "CoinName": "Ellaism"
-    },
-    {
-      "Symbol": "BPL",
-      "CoinName": "BlockPool"
-    },
-    {
-      "Symbol": "ROCK*",
-      "CoinName": "RocketCoin "
-    },
-    {
-      "Symbol": "DRXNE",
-      "CoinName": "Droxne"
-    },
-    {
-      "Symbol": "SKR",
-      "CoinName": "Sakuracoin"
-    },
-    {
-      "Symbol": "GRID",
-      "CoinName": "Grid+"
-    },
-    {
-      "Symbol": "XPTX",
-      "CoinName": "PlatinumBAR"
-    },
-    {
-      "Symbol": "GVT",
-      "CoinName": "Genesis Vision"
-    },
-    {
-      "Symbol": "ETK",
-      "CoinName": "Energi Token"
-    },
-    {
-      "Symbol": "ASTRO",
-      "CoinName": "Astronaut"
-    },
-    {
-      "Symbol": "GMT",
-      "CoinName": "Mercury Protocol"
-    },
-    {
-      "Symbol": "EPY*",
-      "CoinName": "Emphy"
-    },
-    {
-      "Symbol": "SOAR",
-      "CoinName": "Soarcoin"
-    },
-    {
-      "Symbol": "EXY",
-      "CoinName": "Experty"
-    },
-    {
-      "Symbol": "HOLD",
-      "CoinName": "Interstellar Holdings"
-    },
-    {
-      "Symbol": "MNX",
-      "CoinName": "MinexCoin"
-    },
-    {
-      "Symbol": "CRDS",
-      "CoinName": "Credits"
-    },
-    {
-      "Symbol": "VIU",
-      "CoinName": "Viuly"
-    },
-    {
-      "Symbol": "DBR",
-      "CoinName": "Düber"
-    },
-    {
-      "Symbol": "ABT",
-      "CoinName": "Advanced Browsing Token"
-    },
-    {
-      "Symbol": "QSP",
-      "CoinName": "Quantstamp"
-    },
-    {
-      "Symbol": "RIPT",
-      "CoinName": "RiptideCoin"
-    },
-    {
-      "Symbol": "BBT",
-      "CoinName": "BitBoost"
-    },
-    {
-      "Symbol": "CSTL",
-      "CoinName": "Castle"
-    },
-    {
-      "Symbol": "ICC",
-      "CoinName": "Insta Cash Coin"
-    },
-    {
-      "Symbol": "JNT",
-      "CoinName": "Jibrel Network Token"
-    },
-    {
-      "Symbol": "QASH",
-      "CoinName": "Quoine Liquid"
-    },
-    {
-      "Symbol": "KNC**",
-      "CoinName": "KingN Coin"
-    },
-    {
-      "Symbol": "TRIA",
-      "CoinName": "Triaconta"
-    },
-    {
-      "Symbol": "PBL",
-      "CoinName": "Publica"
-    },
-    {
-      "Symbol": "STEX",
-      "CoinName": "STEX"
-    },
-    {
-      "Symbol": "UFR",
-      "CoinName": "Upfiring"
-    },
-    {
-      "Symbol": "LOCI",
-      "CoinName": "LociCoin"
-    },
-    {
-      "Symbol": "TAU",
-      "CoinName": "Lamden Tau"
-    },
-    {
-      "Symbol": "LAB",
-      "CoinName": "Labrys"
-    },
-    {
-      "Symbol": "FLIXX",
-      "CoinName": "Flixxo"
-    },
-    {
-      "Symbol": "FRD",
-      "CoinName": "Farad"
-    },
-    {
-      "Symbol": "PFR",
-      "CoinName": "PayFair"
-    },
-    {
-      "Symbol": "ECA",
-      "CoinName": "Electra"
-    },
-    {
-      "Symbol": "LDM",
-      "CoinName": "Ludum token"
-    },
-    {
-      "Symbol": "LTG",
-      "CoinName": "LiteCoin Gold"
-    },
-    {
-      "Symbol": "BCD",
-      "CoinName": "Bitcoin Diamond"
-    },
-    {
-      "Symbol": "STP",
-      "CoinName": "StashPay"
-    },
-    {
-      "Symbol": "SPANK",
-      "CoinName": "SpankChain"
-    },
-    {
-      "Symbol": "WISH",
-      "CoinName": "MyWish"
-    },
-    {
-      "Symbol": "AERM",
-      "CoinName": "Aerium"
-    },
-    {
-      "Symbol": "PLX",
-      "CoinName": "PlexCoin"
-    },
-    {
-      "Symbol": "NIO",
-      "CoinName": "Autonio"
-    },
-    {
-      "Symbol": "ETHB",
-      "CoinName": "EtherBTC"
-    },
-    {
-      "Symbol": "CDX",
-      "CoinName": "Commodity Ad Network"
-    },
-    {
-      "Symbol": "FOOD",
-      "CoinName": "FoodCoin"
-    },
-    {
-      "Symbol": "VOT",
-      "CoinName": "Votecoin"
-    },
-    {
-      "Symbol": "UQC",
-      "CoinName": "Uquid Coin"
-    },
-    {
-      "Symbol": "LEND",
-      "CoinName": "EthLend"
-    },
-    {
-      "Symbol": "SETH",
-      "CoinName": "Sether"
-    },
-    {
-      "Symbol": "TIO*",
-      "CoinName": "Tio Tour Guides"
-    },
-    {
-      "Symbol": "ABYSS",
-      "CoinName": "The Abyss"
-    },
-    {
-      "Symbol": "XSH",
-      "CoinName": "SHIELD"
-    },
-    {
-      "Symbol": "BCD*",
-      "CoinName": "BitCAD"
-    },
-    {
-      "Symbol": "BCO*",
-      "CoinName": "BridgeCoin"
-    },
-    {
-      "Symbol": "BDG",
-      "CoinName": "BitDegree"
-    },
-    {
-      "Symbol": "ONG",
-      "CoinName": "onG.social"
-    },
-    {
-      "Symbol": "PRL",
-      "CoinName": "Oyster Pearl"
-    },
-    {
-      "Symbol": "BTCM",
-      "CoinName": "BTCMoon"
-    },
-    {
-      "Symbol": "ETBT",
-      "CoinName": "Ethereum Black"
-    },
-    {
-      "Symbol": "ZCG",
-      "CoinName": "ZCashGOLD"
-    },
-    {
-      "Symbol": "MUT",
-      "CoinName": "Mutual Coin"
-    },
-    {
-      "Symbol": "AION",
-      "CoinName": "Aion"
-    },
-    {
-      "Symbol": "MEOW",
-      "CoinName": "Kittehcoin"
-    },
-    {
-      "Symbol": "DIVX",
-      "CoinName": "Divi"
-    },
-    {
-      "Symbol": "CNBC",
-      "CoinName": "Cash & Back Coin"
-    },
-    {
-      "Symbol": "RHOC",
-      "CoinName": "RChain"
-    },
-    {
-      "Symbol": "ARC*",
-      "CoinName": " Arcade City"
-    },
-    {
-      "Symbol": "XUN",
-      "CoinName": "UltraNote"
-    },
-    {
-      "Symbol": "RFL",
-      "CoinName": "RAFL"
-    },
-    {
-      "Symbol": "COFI",
-      "CoinName": "CoinFi"
-    },
-    {
-      "Symbol": "GRX",
-      "CoinName": "Gold Reward Token"
-    },
-    {
-      "Symbol": "NTK",
-      "CoinName": "Neurotoken"
-    },
-    {
-      "Symbol": "ERO",
-      "CoinName": "Eroscoin"
-    },
-    {
-      "Symbol": "CMT*",
-      "CoinName": "CyberMiles"
-    },
-    {
-      "Symbol": "RLX",
-      "CoinName": "Relex"
-    },
-    {
-      "Symbol": "MAN",
-      "CoinName": "People"
-    },
-    {
-      "Symbol": "CWV",
-      "CoinName": "CryptoWave"
-    },
-    {
-      "Symbol": "ACT*",
-      "CoinName": "Achain"
-    },
-    {
-      "Symbol": "NRO",
-      "CoinName": "Neuro"
-    },
-    {
-      "Symbol": "GLT",
-      "CoinName": "GlobalToken"
-    },
-    {
-      "Symbol": "X8X",
-      "CoinName": "X8Currency"
-    },
-    {
-      "Symbol": "COAL",
-      "CoinName": "BitCoal"
-    },
-    {
-      "Symbol": "DAXX",
-      "CoinName": "DaxxCoin"
-    },
-    {
-      "Symbol": "FNT",
-      "CoinName": "FinTab"
-    },
-    {
-      "Symbol": "XMRG",
-      "CoinName": "Monero Gold"
-    },
-    {
-      "Symbol": "BTCE",
-      "CoinName": "EthereumBitcoin"
-    },
-    {
-      "Symbol": "FYP",
-      "CoinName": "FlypMe"
-    },
-    {
-      "Symbol": "BOXY",
-      "CoinName": "BoxyCoin"
-    },
-    {
-      "Symbol": "UTN",
-      "CoinName": "Universa"
-    },
-    {
-      "Symbol": "EGAS",
-      "CoinName": "ETHGAS"
-    },
-    {
-      "Symbol": "DPP",
-      "CoinName": "Digital Assets Power Play"
-    },
-    {
-      "Symbol": "ADB",
-      "CoinName": "Adbank"
-    },
-    {
-      "Symbol": "TGT",
-      "CoinName": "TargetCoin"
-    },
-    {
-      "Symbol": "XDC",
-      "CoinName": "XinFin Coin"
-    },
-    {
-      "Symbol": "BMT",
-      "CoinName": "BMChain"
-    },
-    {
-      "Symbol": "BIO",
-      "CoinName": "Biocoin"
-    },
-    {
-      "Symbol": "MTRC",
-      "CoinName": "ModulTrade"
-    },
-    {
-      "Symbol": "BTCL",
-      "CoinName": "BTC Lite"
-    },
-    {
-      "Symbol": "PCN",
-      "CoinName": "PeepCoin"
-    },
-    {
-      "Symbol": "RBTC",
-      "CoinName": "Bitcoin Revolution"
-    },
-    {
-      "Symbol": "CRED",
-      "CoinName": "Verify"
-    },
-    {
-      "Symbol": "SBTC",
-      "CoinName": "Super Bitcoin"
-    },
-    {
-      "Symbol": "KLK",
-      "CoinName": "Kalkulus"
-    },
-    {
-      "Symbol": "AC3",
-      "CoinName": "AC3"
-    },
-    {
-      "Symbol": "GTO",
-      "CoinName": "GIFTO"
-    },
-    {
-      "Symbol": "TNB",
-      "CoinName": "Time New Bank"
-    },
-    {
-      "Symbol": "CHIPS*",
-      "CoinName": "CHIPS"
-    },
-    {
-      "Symbol": "HKN",
-      "CoinName": "Hacken"
-    },
-    {
-      "Symbol": "B2B",
-      "CoinName": "B2B"
-    },
-    {
-      "Symbol": "LOC*",
-      "CoinName": "LockChain"
-    },
-    {
-      "Symbol": "MNT*",
-      "CoinName": "Media Network Coin"
-    },
-    {
-      "Symbol": "ITNS",
-      "CoinName": "IntenseCoin"
-    },
-    {
-      "Symbol": "SMT*",
-      "CoinName": "SmartMesh"
-    },
-    {
-      "Symbol": "GER",
-      "CoinName": "GermanCoin"
-    },
-    {
-      "Symbol": "LTCU",
-      "CoinName": "LiteCoin Ultra"
-    },
-    {
-      "Symbol": "EMGO",
-      "CoinName": "MobileGo"
-    },
-    {
-      "Symbol": "BTCA",
-      "CoinName": "Bitair"
-    },
-    {
-      "Symbol": "HQX",
-      "CoinName": "HOQU"
-    },
-    {
-      "Symbol": "ETF",
-      "CoinName": "EthereumFog"
-    },
-    {
-      "Symbol": "BCX*",
-      "CoinName": "BitcoinX"
-    },
-    {
-      "Symbol": "LUX**",
-      "CoinName": "Luxmi Coin"
-    },
-    {
-      "Symbol": "STAK",
-      "CoinName": "Straks"
-    },
-    {
-      "Symbol": "BCOIN",
-      "CoinName": "BannerCoin"
-    },
-    {
-      "Symbol": "MED*",
-      "CoinName": "MediBloc"
-    },
-    {
-      "Symbol": "BNTY",
-      "CoinName": "Bounty0x"
-    },
-    {
-      "Symbol": "BRD",
-      "CoinName": "Bread token"
-    },
-    {
-      "Symbol": "HAT",
-      "CoinName": "Hawala.Today"
-    },
-    {
-      "Symbol": "ELF",
-      "CoinName": "aelf"
-    },
-    {
-      "Symbol": "CWX",
-      "CoinName": "Crypto-X"
-    },
-    {
-      "Symbol": "DBC",
-      "CoinName": "DeepBrain Chain"
-    },
-    {
-      "Symbol": "ZEN*",
-      "CoinName": "Zen Protocol"
-    },
-    {
-      "Symbol": "POP",
-      "CoinName": "PopularCoin"
-    },
-    {
-      "Symbol": "BAS",
-      "CoinName": "BitAsean"
-    },
-    {
-      "Symbol": "UTT",
-      "CoinName": "United Traders Token"
-    },
-    {
-      "Symbol": "HBC",
-      "CoinName": "HomeBlockCoin"
-    },
-    {
-      "Symbol": "AMM",
-      "CoinName": "MicroMoney"
-    },
-    {
-      "Symbol": "DAV",
-      "CoinName": "DavorCoin"
-    },
-    {
-      "Symbol": "GET",
-      "CoinName": "Guaranteed Entrance Token"
-    },
-    {
-      "Symbol": "ERC20",
-      "CoinName": "Index ERC20"
-    },
-    {
-      "Symbol": "ITC",
-      "CoinName": "IoT Chain"
-    },
-    {
-      "Symbol": "HTML",
-      "CoinName": "HTML Coin"
-    },
-    {
-      "Symbol": "PHO",
-      "CoinName": "Photon"
-    },
-    {
-      "Symbol": "XTRA",
-      "CoinName": "ExtraCredit"
-    },
-    {
-      "Symbol": "HION",
-      "CoinName": "Handelion"
-    },
-    {
-      "Symbol": "NTWK",
-      "CoinName": "Network Token"
-    },
-    {
-      "Symbol": "SMART*",
-      "CoinName": "SmartBillions"
-    },
-    {
-      "Symbol": "GNX",
-      "CoinName": "Genaro Network"
-    },
-    {
-      "Symbol": "NAS",
-      "CoinName": "Nebulas"
-    },
-    {
-      "Symbol": "BTH",
-      "CoinName": "Bytether "
-    },
-    {
-      "Symbol": "EREAL",
-      "CoinName": "eREAL"
-    },
-    {
-      "Symbol": "CPN",
-      "CoinName": "CompuCoin"
-    },
-    {
-      "Symbol": "QLC",
-      "CoinName": "QLINK"
-    },
-    {
-      "Symbol": "BTSE",
-      "CoinName": "BitSerial"
-    },
-    {
-      "Symbol": "OMGC",
-      "CoinName": "OmiseGO Classic"
-    },
-    {
-      "Symbol": "Q2C",
-      "CoinName": "QubitCoin"
-    },
-    {
-      "Symbol": "SPF",
-      "CoinName": "SportyFi"
-    },
-    {
-      "Symbol": "TDS",
-      "CoinName": "TokenDesk"
-    },
-    {
-      "Symbol": "FLS",
-      "CoinName": "Fuloos Coin"
-    },
-    {
-      "Symbol": "GUN",
-      "CoinName": "GunCoin"
-    },
-    {
-      "Symbol": "DFS",
-      "CoinName": "DFSCoin"
-    },
-    {
-      "Symbol": "CL",
-      "CoinName": "CoinLancer"
-    },
-    {
-      "Symbol": "SHND",
-      "CoinName": "StrongHands"
-    },
-    {
-      "Symbol": "AUA",
-      "CoinName": "ArubaCoin"
-    },
-    {
-      "Symbol": "GXS",
-      "CoinName": "GXShares"
-    },
-    {
-      "Symbol": "TSL",
-      "CoinName": "Energo"
-    },
-    {
-      "Symbol": "IRL",
-      "CoinName": "IrishCoin"
-    },
-    {
-      "Symbol": "BOT",
-      "CoinName": "Bodhi"
-    },
-    {
-      "Symbol": "PMA",
-      "CoinName": "PumaPay"
-    },
-    {
-      "Symbol": "TROLL",
-      "CoinName": "Trollcoin"
-    },
-    {
-      "Symbol": "SGR",
-      "CoinName": "Sugar Exchange"
-    },
-    {
-      "Symbol": "JET",
-      "CoinName": "Jetcoin"
-    },
-    {
-      "Symbol": "MDS",
-      "CoinName": "MediShares"
-    },
-    {
-      "Symbol": "LCP",
-      "CoinName": "Litecoin Plus"
-    },
-    {
-      "Symbol": "GTC",
-      "CoinName": "Game"
-    },
-    {
-      "Symbol": "IETH",
-      "CoinName": "iEthereum"
-    },
-    {
-      "Symbol": "GCC*",
-      "CoinName": "TheGCCcoin"
-    },
-    {
-      "Symbol": "SDRN",
-      "CoinName": "Sanderon"
-    },
-    {
-      "Symbol": "INK",
-      "CoinName": "Ink"
-    },
-    {
-      "Symbol": "KBR",
-      "CoinName": "Kubera Coin"
-    },
-    {
-      "Symbol": "HPB",
-      "CoinName": "High Performance Blockchain"
-    },
-    {
-      "Symbol": "MONK",
-      "CoinName": "Monkey Project"
-    },
-    {
-      "Symbol": "JINN",
-      "CoinName": "Jinn"
-    },
-    {
-      "Symbol": "SET",
-      "CoinName": "Setcoin"
-    },
-    {
-      "Symbol": "BRC",
-      "CoinName": "BrightCoin"
-    },
-    {
-      "Symbol": "WCG",
-      "CoinName": "World Crypto Gold"
-    },
-    {
-      "Symbol": "HIVE",
-      "CoinName": "Hive"
-    },
-    {
-      "Symbol": "GX",
-      "CoinName": "GameX"
-    },
-    {
-      "Symbol": "LCK",
-      "CoinName": "Luckbox"
-    },
-    {
-      "Symbol": "MFG",
-      "CoinName": "SyncFab"
-    },
-    {
-      "Symbol": "ETL",
-      "CoinName": "EtherLite"
-    },
-    {
-      "Symbol": "TEL",
-      "CoinName": "Telcoin"
-    },
-    {
-      "Symbol": "BRC*",
-      "CoinName": "BinaryCoin"
-    },
-    {
-      "Symbol": "ZAP",
-      "CoinName": "Zap"
-    },
-    {
-      "Symbol": "AIDOC",
-      "CoinName": "AI Doctor"
-    },
-    {
-      "Symbol": "ECC",
-      "CoinName": "ECC"
-    },
-    {
-      "Symbol": "LCT",
-      "CoinName": "LendConnect"
-    },
-    {
-      "Symbol": "INT",
-      "CoinName": "Internet Node Token"
-    },
-    {
-      "Symbol": "STN",
-      "CoinName": "Steneum Coin"
-    },
-    {
-      "Symbol": "SFU",
-      "CoinName": "Saifu"
-    },
-    {
-      "Symbol": "PCOIN",
-      "CoinName": "Pioneer Coin"
-    },
-    {
-      "Symbol": "BLN",
-      "CoinName": "Bolenum"
-    },
-    {
-      "Symbol": "LUC",
-      "CoinName": "Play 2 Live"
-    },
-    {
-      "Symbol": "EDT",
-      "CoinName": "EtherDelta"
-    },
-    {
-      "Symbol": "CYDER",
-      "CoinName": "Cyder Coin"
-    },
-    {
-      "Symbol": "EKO",
-      "CoinName": "EchoLink"
-    },
-    {
-      "Symbol": "UBTC",
-      "CoinName": "UnitedBitcoin"
-    },
-    {
-      "Symbol": "BTO",
-      "CoinName": "Bottos"
-    },
-    {
-      "Symbol": "ARCT",
-      "CoinName": "ArbitrageCT"
-    },
-    {
-      "Symbol": "IMV",
-      "CoinName": "ImmVRse"
-    },
-    {
-      "Symbol": "AURA",
-      "CoinName": "Aurora"
-    },
-    {
-      "Symbol": "IDH",
-      "CoinName": "IndaHash"
-    },
-    {
-      "Symbol": "CBT",
-      "CoinName": "CommerceBlock Token"
-    },
-    {
-      "Symbol": "XBP",
-      "CoinName": "Black Pearl Coin"
-    },
-    {
-      "Symbol": "EXRN",
-      "CoinName": "EXRNchain"
-    },
-    {
-      "Symbol": "AGI",
-      "CoinName": "SingularityNET"
-    },
-    {
-      "Symbol": "BFT",
-      "CoinName": "BF Token (BFT)"
-    },
-    {
-      "Symbol": "LGO",
-      "CoinName": "Legolas Exchange"
-    },
-    {
-      "Symbol": "CRPT",
-      "CoinName": "Crypterium"
-    },
-    {
-      "Symbol": "SGL",
-      "CoinName": "Sigil"
-    },
-    {
-      "Symbol": "DTA",
-      "CoinName": "Data"
-    },
-    {
-      "Symbol": "CV",
-      "CoinName": "CarVertical"
-    },
-    {
-      "Symbol": "MCU",
-      "CoinName": "MediChain"
-    },
-    {
-      "Symbol": "OCN",
-      "CoinName": "Odyssey"
-    },
-    {
-      "Symbol": "THETA",
-      "CoinName": "Theta"
-    },
-    {
-      "Symbol": "MDT*",
-      "CoinName": "Measurable Data Token "
-    },
-    {
-      "Symbol": "PRPS",
-      "CoinName": "Purpose"
-    },
-    {
-      "Symbol": "DUBI",
-      "CoinName": "Decentralized Universal Basic Income"
-    },
-    {
-      "Symbol": "BPT",
-      "CoinName": "Blockport"
-    },
-    {
-      "Symbol": "SGN",
-      "CoinName": "Signals Network"
-    },
-    {
-      "Symbol": "IOST",
-      "CoinName": "IOS token"
-    },
-    {
-      "Symbol": "TCT",
-      "CoinName": "TokenClub "
-    },
-    {
-      "Symbol": "TRAC",
-      "CoinName": "OriginTrail"
-    },
-    {
-      "Symbol": "MOT",
-      "CoinName": "Olympus Labs"
-    },
-    {
-      "Symbol": "ZIL",
-      "CoinName": "Zilliqa"
-    },
-    {
-      "Symbol": "HORSE",
-      "CoinName": "Ethorse "
-    },
-    {
-      "Symbol": "QUN",
-      "CoinName": "QunQun"
-    },
-    {
-      "Symbol": "QBT*",
-      "CoinName": "Qbao"
-    },
-    {
-      "Symbol": "ACC*",
-      "CoinName": "Accelerator Network"
-    },
-    {
-      "Symbol": "SWFTC",
-      "CoinName": "SwftCoin"
-    },
-    {
-      "Symbol": "SENT",
-      "CoinName": "Sentinel"
-    },
-    {
-      "Symbol": "IPL",
-      "CoinName": "InsurePal"
-    },
-    {
-      "Symbol": "OPC",
-      "CoinName": "OP Coin"
-    },
-    {
-      "Symbol": "SHA",
-      "CoinName": "Shacoin"
-    },
-    {
-      "Symbol": "PYLNT",
-      "CoinName": "Pylon Network"
-    },
-    {
-      "Symbol": "EVE",
-      "CoinName": "Devery"
-    },
-    {
-      "Symbol": "YEE",
-      "CoinName": "Yee"
-    },
-    {
-      "Symbol": "REPUX",
-      "CoinName": "Repux"
-    },
-    {
-      "Symbol": "JOY",
-      "CoinName": "JoyToken"
-    },
-    {
-      "Symbol": "GTC*",
-      "CoinName": "Global Tour Coin"
-    },
-    {
-      "Symbol": "BTW",
-      "CoinName": "BitcoinWhite"
-    },
-    {
-      "Symbol": "AXP",
-      "CoinName": "aXpire"
-    },
-    {
-      "Symbol": "FOTA",
-      "CoinName": "Fortuna"
-    },
-    {
-      "Symbol": "CPC*",
-      "CoinName": "CPChain"
-    },
-    {
-      "Symbol": "SPEND",
-      "CoinName": "Spend"
-    },
-    {
-      "Symbol": "PXS",
-      "CoinName": "Pundi X"
-    },
-    {
-      "Symbol": "ZPT",
-      "CoinName": "Zeepin"
-    },
-    {
-      "Symbol": "REF",
-      "CoinName": "RefToken"
-    },
-    {
-      "Symbol": "SXDT",
-      "CoinName": "SPECTRE Dividend Token"
-    },
-    {
-      "Symbol": "SXUT",
-      "CoinName": "SPECTRE Utility Token"
-    },
-    {
-      "Symbol": "LDC*",
-      "CoinName": "LeadCoin"
-    },
-    {
-      "Symbol": "FAIR*",
-      "CoinName": "FairGame"
-    },
-    {
-      "Symbol": "VAL",
-      "CoinName": "Valorbit"
-    },
-    {
-      "Symbol": "MAN*",
-      "CoinName": "Matrix AI Network"
-    },
-    {
-      "Symbol": "BCDN",
-      "CoinName": "BlockCDN "
-    },
-    {
-      "Symbol": "MZX",
-      "CoinName": "Mosaic Token"
-    },
-    {
-      "Symbol": "Q1S",
-      "CoinName": "Quantum1Net"
-    },
-    {
-      "Symbol": "WELL",
-      "CoinName": "Well"
-    },
-    {
-      "Symbol": "REM",
-      "CoinName": "REMME"
-    },
-    {
-      "Symbol": "DOC*",
-      "CoinName": "Doc Coin"
-    },
-    {
-      "Symbol": "CRC**",
-      "CoinName": "CryCash"
-    },
-    {
-      "Symbol": "SAF",
-      "CoinName": "Safinus"
-    },
-    {
-      "Symbol": "GFT",
-      "CoinName": "Giftcoin"
-    },
-    {
-      "Symbol": "DNN",
-      "CoinName": "DNN Token"
-    },
-    {
-      "Symbol": "DTX",
-      "CoinName": "DataBroker DAO"
-    },
-    {
-      "Symbol": "CCOS",
-      "CoinName": "CrowdCoinage"
-    },
-    {
-      "Symbol": "WPR",
-      "CoinName": "WePower"
-    },
-    {
-      "Symbol": "POLY*",
-      "CoinName": "Polymath Network"
-    },
-    {
-      "Symbol": "XTO",
-      "CoinName": "Tao"
-    },
-    {
-      "Symbol": "RUFF",
-      "CoinName": "Ruff"
-    },
-    {
-      "Symbol": "ELA",
-      "CoinName": "Elastos"
-    },
-    {
-      "Symbol": "STK",
-      "CoinName": "STK Token"
-    },
-    {
-      "Symbol": "CXO",
-      "CoinName": "CargoX"
-    },
-    {
-      "Symbol": "WRC",
-      "CoinName": "Worldcore"
-    },
-    {
-      "Symbol": "WAVES",
-      "CoinName": "Waves"
-    },
-    {
-      "Symbol": "DASH",
-      "CoinName": "DigitalCash"
-    },
-    {
-      "Symbol": "PIVX",
-      "CoinName": "Private Instant Verified Transaction"
-    },
-    {
-      "Symbol": "XZC",
-      "CoinName": "ZCoin"
-    },
-    {
-      "Symbol": "BLOCK",
-      "CoinName": "BlockNet"
-    },
-    {
-      "Symbol": "DIM",
-      "CoinName": "DIMCOIN"
-    },
-    {
-      "Symbol": "LUX",
-      "CoinName": "LUXCoin"
-    },
-    {
-      "Symbol": "ION",
-      "CoinName": "Ionomy"
-    },
-    {
-      "Symbol": "PURA",
-      "CoinName": "Pura"
-    },
-    {
-      "Symbol": "CRW",
-      "CoinName": "Crown Coin"
-    },
-    {
-      "Symbol": "DMD",
-      "CoinName": "Diamond"
-    },
-    {
-      "Symbol": "SIB",
-      "CoinName": "SibCoin"
-    },
-    {
-      "Symbol": "BLT",
-      "CoinName": "Bloom Token"
-    },
-    {
-      "Symbol": "PHR*",
-      "CoinName": "Phore"
-    },
-    {
-      "Symbol": "MUE",
-      "CoinName": "MonetaryUnit"
-    },
-    {
-      "Symbol": "NEOS",
-      "CoinName": "NeosCoin"
-    },
-    {
-      "Symbol": "BSD",
-      "CoinName": "BitSend"
-    },
-    {
-      "Symbol": "COLX",
-      "CoinName": "ColossusCoinXT"
-    },
-    {
-      "Symbol": "GBX",
-      "CoinName": "GoByte"
-    },
-    {
-      "Symbol": "NTRN",
-      "CoinName": "Neutron"
-    },
-    {
-      "Symbol": "XLR",
-      "CoinName": "Solaris"
-    },
-    {
-      "Symbol": "XMCC",
-      "CoinName": "MonacoCoin"
-    },
-    {
-      "Symbol": "MEME",
-      "CoinName": "Pepe"
-    },
-    {
-      "Symbol": "POLIS",
-      "CoinName": "PolisPay"
-    },
-    {
-      "Symbol": "CRC",
-      "CoinName": "CrowdCoin"
-    },
-    {
-      "Symbol": "TX",
-      "CoinName": "Transfer"
-    },
-    {
-      "Symbol": "ALQO",
-      "CoinName": "Alqo"
-    },
-    {
-      "Symbol": "KORE",
-      "CoinName": "Kore"
-    },
-    {
-      "Symbol": "KZC",
-      "CoinName": "KZCash"
-    },
-    {
-      "Symbol": "BWK",
-      "CoinName": "Bulwark"
-    },
-    {
-      "Symbol": "BTDX",
-      "CoinName": "Bitcloud 2.0"
-    },
-    {
-      "Symbol": "INN",
-      "CoinName": "Innova"
-    },
-    {
-      "Symbol": "MAG",
-      "CoinName": "Magnet"
-    },
-    {
-      "Symbol": "VEE",
-      "CoinName": "BLOCKv"
-    },
-    {
-      "Symbol": "VSX",
-      "CoinName": "Vsync"
-    },
-    {
-      "Symbol": "SEND",
-      "CoinName": "Social Send"
-    },
-    {
-      "Symbol": "EXCL",
-      "CoinName": "Exclusive Coin"
-    },
-    {
-      "Symbol": "ORE",
-      "CoinName": "Galactrum"
-    },
-    {
-      "Symbol": "NMS",
-      "CoinName": "Numus"
-    },
-    {
-      "Symbol": "ELTCOIN",
-      "CoinName": "ELTCOIN"
-    },
-    {
-      "Symbol": "CHC",
-      "CoinName": "ChainCoin"
-    },
-    {
-      "Symbol": "SPK",
-      "CoinName": "Sparks"
-    },
-    {
-      "Symbol": "TRC",
-      "CoinName": "TerraCoin"
-    },
-    {
-      "Symbol": "VIVO",
-      "CoinName": "VIVO Coin"
-    },
-    {
-      "Symbol": "MXT",
-      "CoinName": "MartexCoin"
-    },
-    {
-      "Symbol": "GNR",
-      "CoinName": "Gainer"
-    },
-    {
-      "Symbol": "SAGA",
-      "CoinName": "SagaCoin"
-    },
-    {
-      "Symbol": "PURE",
-      "CoinName": "Pure"
-    },
-    {
-      "Symbol": "XFT",
-      "CoinName": "Footy Cash"
-    },
-    {
-      "Symbol": "GRLC",
-      "CoinName": "Garlicoin"
-    },
-    {
-      "Symbol": "FOR",
-      "CoinName": "Force Coin"
-    },
-    {
-      "Symbol": "DP",
-      "CoinName": "DigitalPrice"
-    },
-    {
-      "Symbol": "PHILS",
-      "CoinName": "PhilsCurrency"
-    },
-    {
-      "Symbol": "ATFS",
-      "CoinName": "ATFS Project"
-    },
-    {
-      "Symbol": "CPY",
-      "CoinName": "COPYTRACK"
-    },
-    {
-      "Symbol": "SCR",
-      "CoinName": "Scorum"
-    },
-    {
-      "Symbol": "EBC",
-      "CoinName": "EBCoin"
-    },
-    {
-      "Symbol": "FLOT",
-      "CoinName": "FireLotto"
-    },
-    {
-      "Symbol": "GENE",
-      "CoinName": "PARKGENE"
-    },
-    {
-      "Symbol": "DTT*",
-      "CoinName": "Data Trading"
-    },
-    {
-      "Symbol": "XCD",
-      "CoinName": "Capdax"
-    },
-    {
-      "Symbol": "NPX",
-      "CoinName": "Napoleon X"
-    },
-    {
-      "Symbol": "LWF",
-      "CoinName": "Local World Forwarders"
-    },
-    {
-      "Symbol": "LNC",
-      "CoinName": "BlockLancer"
-    },
-    {
-      "Symbol": "DEB",
-      "CoinName": "Debitum Token"
-    },
-    {
-      "Symbol": "SPICE",
-      "CoinName": "SPiCE Venture Capital "
-    },
-    {
-      "Symbol": "PYP",
-      "CoinName": "PayPro"
-    },
-    {
-      "Symbol": "SRNT",
-      "CoinName": "Serenity"
-    },
-    {
-      "Symbol": "MLT",
-      "CoinName": "MultiGames"
-    },
-    {
-      "Symbol": "VST",
-      "CoinName": "Vestarin"
-    },
-    {
-      "Symbol": "SPX*",
-      "CoinName": "Sp8de"
-    },
-    {
-      "Symbol": "CFTY",
-      "CoinName": "Crafty"
-    },
-    {
-      "Symbol": "EARTH",
-      "CoinName": "Earth Token"
-    },
-    {
-      "Symbol": "ET4",
-      "CoinName": "Eticket4"
-    },
-    {
-      "Symbol": "HGS",
-      "CoinName": "HashGains"
-    },
-    {
-      "Symbol": "DSR",
-      "CoinName": "Desire"
-    },
-    {
-      "Symbol": "CRM",
-      "CoinName": "Cream"
-    },
-    {
-      "Symbol": "FSBT",
-      "CoinName": "Forty Seven Bank"
-    },
-    {
-      "Symbol": "GOA",
-      "CoinName": "GoaCoin"
-    },
-    {
-      "Symbol": "GEA",
-      "CoinName": "Goldea"
-    },
-    {
-      "Symbol": "ONL",
-      "CoinName": "On.Live"
-    },
-    {
-      "Symbol": "RNS",
-      "CoinName": "RenosCoin"
-    },
-    {
-      "Symbol": "WT",
-      "CoinName": "WeToken"
-    },
-    {
-      "Symbol": "EOS",
-      "CoinName": "EOS"
-    },
-    {
-      "Symbol": "BRO",
-      "CoinName": "Bitradio"
-    },
-    {
-      "Symbol": "SCORE",
-      "CoinName": "Scorecoin"
-    },
-    {
-      "Symbol": "VLR",
-      "CoinName": "Valorem"
-    },
-    {
-      "Symbol": "ARC",
-      "CoinName": "ArcticCoin"
-    },
-    {
-      "Symbol": "DRC*",
-      "CoinName": "Darico"
-    },
-    {
-      "Symbol": "XCPO",
-      "CoinName": "Copico"
-    },
-    {
-      "Symbol": "XCXT",
-      "CoinName": "CoinonatX"
-    },
-    {
-      "Symbol": "ENT",
-      "CoinName": "Eternity"
-    },
-    {
-      "Symbol": "MDC*",
-      "CoinName": "MadCoin"
-    },
-    {
-      "Symbol": "SUCR",
-      "CoinName": "Sucre"
-    },
-    {
-      "Symbol": "PNX",
-      "CoinName": "PhantomX"
-    },
-    {
-      "Symbol": "ITZ",
-      "CoinName": "Interzone"
-    },
-    {
-      "Symbol": "ACCO",
-      "CoinName": "Accolade"
-    },
-    {
-      "Symbol": "MGN",
-      "CoinName": "MagnaCoin"
-    },
-    {
-      "Symbol": "AMS",
-      "CoinName": "Amsterdam Coin"
-    },
-    {
-      "Symbol": "TOK",
-      "CoinName": "TokugawaCoin"
-    },
-    {
-      "Symbol": "UTK",
-      "CoinName": "Utrust"
-    },
-    {
-      "Symbol": "NGC",
-      "CoinName": "NagaCoin"
-    },
-    {
-      "Symbol": "XRB",
-      "CoinName": "Nano"
-    },
-    {
-      "Symbol": "CROAT",
-      "CoinName": "Croat"
-    },
-    {
-      "Symbol": "RCT",
-      "CoinName": "RealChain"
-    },
-    {
-      "Symbol": "EBST",
-      "CoinName": "eBoost"
-    },
-    {
-      "Symbol": "DRG",
-      "CoinName": "Dragon Coin"
-    },
-    {
-      "Symbol": "CUZ",
-      "CoinName": "Cool Cousin"
-    },
-    {
-      "Symbol": "300",
-      "CoinName": "300 token"
-    },
-    {
-      "Symbol": "SC",
-      "CoinName": "Siacoin"
-    },
-    {
-      "Symbol": "XRA",
-      "CoinName": "Ratecoin"
-    },
-    {
-      "Symbol": "GMR",
-      "CoinName": "Gimmer"
-    },
-    {
-      "Symbol": "ARG",
-      "CoinName": "Argentum"
-    },
-    {
-      "Symbol": "BTM",
-      "CoinName": "BitMark"
-    },
-    {
-      "Symbol": "EAC",
-      "CoinName": "EarthCoin"
-    },
-    {
-      "Symbol": "LHC",
-      "CoinName": "LHCoin"
-    },
-    {
-      "Symbol": "STAC",
-      "CoinName": "STAC"
-    },
-    {
-      "Symbol": "BETR",
-      "CoinName": "BetterBetting"
-    },
-    {
-      "Symbol": "SISA",
-      "CoinName": "Strategic Investments in Significant Areas"
-    },
-    {
-      "Symbol": "EBIT",
-      "CoinName": "eBit"
-    },
-    {
-      "Symbol": "TPAY*",
-      "CoinName": "TokenPay"
-    },
-    {
-      "Symbol": "TNC",
-      "CoinName": "Trinity Network Credit"
-    },
-    {
-      "Symbol": "HLC",
-      "CoinName": "Halal-Chain"
     }
   ]
 }

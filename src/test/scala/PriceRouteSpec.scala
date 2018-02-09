@@ -1,8 +1,9 @@
-import akka.actor.{ ActorRef, ActorSystem }
+import akka.actor.ActorSystem
 import akka.http.scaladsl.testkit.{ RouteTestTimeout, ScalatestRouteTest }
+import akka.stream.ActorMaterializer
 import de.heikoseeberger.akkahttpcirce.ErrorAccumulatingCirceSupport
 import io.circe.generic.auto._
-import model.{ CoinInfo, CurrencyData, SupportedCoins }
+import model._
 import org.scalatest.{ Matchers, WordSpec }
 import routes.PriceRoutes
 
@@ -15,25 +16,25 @@ class PriceRouteSpec
     with PriceRoutes
     with ErrorAccumulatingCirceSupport {
 
-  val coindeskActor: ActorRef = system.actorOf(CoindeskClientActor.props, "coindeskActor")
+  implicit val sys: ActorSystem       = ActorSystem("CryptoActorSystem")
+  implicit val mat: ActorMaterializer = ActorMaterializer()
+
   implicit def default(implicit system: ActorSystem) = RouteTestTimeout(5.seconds)
 
   "The service" should {
     "reject a GET requests to the root path" in {
-      Get() ~> priceRoutes(coindeskActor) ~> check {
+      Get() ~> priceRoutes(sys, mat) ~> check {
         handled shouldBe false
       }
     }
 
     "return price from coindesk for Bitcoin in USD" in {
-      Get("/prices") ~> priceRoutes(coindeskActor) ~> check {
-        responseAs[CurrencyData] match {
-          case CurrencyData(currency, symbol, price, description, float) =>
-            currency shouldEqual "USD"
-            symbol shouldEqual "&#36;"
-            price.replaceAll(",", "").toDouble should be > 0.0
-            description shouldEqual "United States Dollar"
-            float should be > 0.0
+      Get("/prices") ~> priceRoutes(sys, mat) ~> check {
+        responseAs[List[CryptoPriceResponse]] match {
+          case List(CryptoPriceResponse(prices)) =>
+            prices.size should be > 1
+            prices.map(_.symbol) shouldEqual List("BTC", "ETH")
+            prices.map(_.price).filter(_ > 0).size shouldEqual 2
         }
       }
     }
@@ -48,7 +49,7 @@ class PriceRouteSpec
     }
 
     "leave GET requests to other paths unhandled" in {
-      Get("/kermit") ~> priceRoutes(coindeskActor) ~> check {
+      Get("/kermit") ~> priceRoutes(sys, mat) ~> check {
         handled shouldBe false
       }
     }

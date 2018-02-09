@@ -9,6 +9,8 @@ val akkaHttpVersion = "10.1.0-RC1"
 val scalaTestV = "3.0.4"
 val circeVersion = "0.9.1"
 val akkaHttpJson = "1.20.0-RC1"
+val catsVersion = "1.0.1"
+
 
 
 libraryDependencies ++= Seq(
@@ -26,7 +28,9 @@ libraryDependencies ++= Seq(
 
   "io.circe" %% "circe-core" % circeVersion,
   "io.circe" %% "circe-generic" % circeVersion,
-  "io.circe" %% "circe-parser" % circeVersion
+  "io.circe" %% "circe-parser" % circeVersion,
+
+  "org.typelevel" %% "cats-core" % catsVersion
 )
 
 resolvers += Resolver.bintrayRepo("hseeberger", "maven")
