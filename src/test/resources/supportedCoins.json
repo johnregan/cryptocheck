@@ -1,9 +1,8 @@
 {
-  "coins": [
-    {
-      "Symbol": "BTC",
-      "CoinName": "Bitcoin"
-    },
+  "coins": [{
+    "Symbol": "BTC",
+    "CoinName": "Bitcoin"
+  },
     {
       "Symbol": "ETH",
       "CoinName": "Ethereum"

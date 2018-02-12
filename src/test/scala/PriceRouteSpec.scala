@@ -30,12 +30,10 @@ class PriceRouteSpec
 
     "return price from coindesk for Bitcoin in USD" in {
       Get("/prices") ~> priceRoutes(sys, mat) ~> check {
-        responseAs[List[CryptoPriceResponse]] match {
-          case List(CryptoPriceResponse(prices)) =>
-            prices.size should be > 1
-            prices.map(_.symbol) shouldEqual List("BTC", "ETH")
-            prices.map(_.price).filter(_ > 0).size shouldEqual 2
-        }
+        val prices = responseAs[List[CryptoPrice]]
+        prices.size should be > 1
+        prices.map(_.symbol) shouldEqual List("BTC", "ETH")
+        prices.map(_.price).filter(_ > 0).size shouldEqual 2
       }
     }
 
