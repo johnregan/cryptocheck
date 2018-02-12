@@ -1,4 +1,4 @@
-package client
+package client.cryptocompare
 
 import akka.actor.{ Actor, ActorLogging, ActorRef, Props }
 import akka.http.scaladsl.Http

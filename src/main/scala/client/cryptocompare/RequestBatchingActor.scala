@@ -1,4 +1,4 @@
-package client
+package client.cryptocompare
 
 import java.util.UUID
 

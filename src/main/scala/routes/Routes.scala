@@ -7,6 +7,7 @@ import akka.http.scaladsl.server.{ Directives, Route }
 import akka.pattern.ask
 import akka.stream.ActorMaterializer
 import client._
+import client.cryptocompare.{ AggregatedPrices, ErrorEncountered, PricesRequest, RequestBatchingActor }
 import de.heikoseeberger.akkahttpcirce.ErrorAccumulatingCirceSupport
 import io.circe.generic.auto._
 import singleton.SupportedCoinsConfig

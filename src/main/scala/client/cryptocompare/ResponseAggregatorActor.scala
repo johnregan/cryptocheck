@@ -1,7 +1,7 @@
-package client
+package client.cryptocompare
 
 import akka.actor.{ Actor, ActorLogging, ActorRef, Props }
-import model.{ CryptoPrice, CryptoPriceResponse }
+import model.CryptoPriceResponse
 import singleton.SupportedCoinsConfig
 
 case object PricesRequest
