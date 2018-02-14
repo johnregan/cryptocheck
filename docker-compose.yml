@@ -1,0 +1,6 @@
+version: '3'
+services:
+  cryptocheck:
+    image: 77c789bbc3cd
+    ports:
+      - 9001:9001

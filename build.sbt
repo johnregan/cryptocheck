@@ -34,3 +34,12 @@ libraryDependencies ++= Seq(
 )
 
 resolvers += Resolver.bintrayRepo("hseeberger", "maven")
+
+enablePlugins(JavaAppPackaging)
+enablePlugins(DockerPlugin)
+enablePlugins(AshScriptPlugin)
+
+dockerBaseImage       := "openjdk:jre-alpine"
+
+mainClass in Compile := Some("CryptoService")
+
