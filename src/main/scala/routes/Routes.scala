@@ -22,7 +22,7 @@ trait PriceRoutes extends Directives with ErrorAccumulatingCirceSupport with Pre
 
         onSuccess(batchingActor ? PricesRequest) {
           case ErrorEncountered(errorMsg) => complete(errorMsg)
-          case AggregatedPrices(prices)   => complete(prices)
+          case aggregatedPrices: AggregatedPrices => complete(aggregatedPrices)
         }
       }
     }
